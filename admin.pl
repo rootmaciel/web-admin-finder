@@ -7,7 +7,7 @@ system('cls');
 print"\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\t>             Web Admin Finder               >\n";
-print "\t>                  m4c131                    >\n";
+print "\t>                 rootmacie                  >\n";
 print "\t>       =============================        >\n";
 print "\t>                Web Hacking                 >\n";
 print "\t>                                            >\n";
